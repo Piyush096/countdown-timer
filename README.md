@@ -1,3 +1,3 @@
 # Countdown-Timer
 
-https://deepakjha802.github.io/Password-Generator/
+https://piyush096.github.io/countdown-timer/
